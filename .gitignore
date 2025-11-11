@@ -1,0 +1,6 @@
+# Diretórios e arquivos locais
+logs/
+.cred/
+registry.json
+*.clixml
+*.log
